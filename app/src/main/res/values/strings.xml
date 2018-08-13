@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Song Player App</string>
+
+    <string-array name="image_ids">
+        <item>@drawable/ic_musicnote</item>
+        <item>@drawable/ic_musicnote</item>
+        <item>@drawable/ic_musicnote</item>
+        <item>@drawable/ic_musicnote</item>
+        <item>@drawable/ic_musicnote</item>
+        <item>@drawable/ic_musicnote</item>
+    </string-array>
+</resources>
